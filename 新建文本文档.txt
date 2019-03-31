@@ -1,0 +1,13 @@
+SELECT * FROM Course
+
+SELECT * FROM Sc
+SELECT * FROM Student
+
+
+
+SELECT Sno,Sname,Sdept FROM Student y
+WHERE ()
+
+
+
+
